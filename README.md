@@ -8,9 +8,8 @@ main(){
 
     String greeting = "Maraba brat!"
 
-    while (greeting = "Maraba brat!") {
+    for(int i = 0; i < 5; i++) {
         System.out.printl(greeting);
     }
-
 
 }
